@@ -1,5 +1,8 @@
 # 📚 BookTracker - Sistema de Controle de Empréstimos de Livros
 
+<!-- Link -->
+[Docs](https://docs.google.com/document/d/1kldVkCdUTCNlI5IRw7Twi1eG5bhpe0KqQFb4dg7zAhs/edit?usp=sharing)
+
 ## 📋 Descrição do Projeto
 
 O **BookTracker** é um sistema completo de controle de empréstimos de livros desenvolvido em Java, aplicando os conceitos de **Programação Orientada a Objetos (POO)**. O sistema permite gerenciar livros, usuários e empréstimos de forma eficiente e organizada.
